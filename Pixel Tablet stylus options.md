@@ -9,3 +9,7 @@ From some Reddit browsing, it seems like USI kinda [niched itself in the low end
 Either way, I'm stuck with that, so let's try to find the best options.
 The most popular is one literally called [Penoval USI 2.0 Stylus](https://www.amazon.fr/Penoval-USI2-0-Chromebook-Pression-chromebook/dp/B0BNBGKM7W?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1KEDDUG8EXXO2). No shit is shows up first in search results cuz the name of the product is the same as the protocol's. It's priced at 60 bucks. It has pressure sensitivity, palm rejection, good battery life, seemingly slim and good ergonomics, and magnetic attachement to compatible tablets, which Pixel Tablet doesn't. It doesn't have buttons thought. Nor does it offer tilt support.
 
+
+
+aaa
+
